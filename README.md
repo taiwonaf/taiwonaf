@@ -1,4 +1,4 @@
-# Hi there, I'm Taiwo - aka [Taiwo][youtube] 👋 
+# Hi there, I'm Taiwo - aka [tee_script]👋 
 
 ## I'm a Developer and a scientist (Microbiologist)!!
 
@@ -61,6 +61,7 @@
 
 </details>
 
+[tee_script]: https://twitter.com/taiwonaf
 [twitter]: https://twitter.com/taiwonaf
 [instagram]: https://instagram.com/taiwonafiu
 [linkedin]: https://linkedin.com/in/taiwo-nafiu
