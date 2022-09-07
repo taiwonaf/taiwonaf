@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/tee_script#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/tee_script#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/tee_script#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/tee_script#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/taiwo-nafiu#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/taiwo-nafiu#gh-dark-mode-only)
