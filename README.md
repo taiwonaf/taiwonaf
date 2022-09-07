@@ -40,26 +40,9 @@
 <br />
 
 ---
+<summary>:zap: GitHub Stats</summary>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/Taiwo/nft-landing-page/pull/11) in [Taiwo/nft-landing-page](https://github.com/Taiwo/nft-landing-page)
-2. ❌ Closed PR [#21](https://github.com/Taiwo/nft-landing-page/pull/21) in [Taiwo/nft-landing-page](https://github.com/Taiwo/nft-landing-page)
-3. ❌ Closed PR [#16](https://github.com/Taiwo/nft-landing-page/pull/16) in [Taiwo/nft-landing-page](https://github.com/Taiwo/nft-landing-page)
-4. ❌ Closed PR [#14](https://github.com/Taiwo/nft-landing-page/pull/14) in [Taiwo/nft-landing-page](https://github.com/Taiwo/nft-landing-page)
-5. ❌ Closed PR [#9](https://github.com/Taiwo/nft-landing-page/pull/9) in [Taiwo/nft-landing-page](https://github.com/Taiwo/nft-landing-page)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Taiwo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taiwonaf&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<img align="left" alt="Taiwo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taiwonaf&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [tee_script]: https://twitter.com/taiwonaf
 [twitter]: https://twitter.com/taiwonaf
