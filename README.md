@@ -7,15 +7,9 @@
 - 🥅 2023 Goals: become a full fledge fullstack developer
 
 ### Connect with me:
+<h3 align="left">Stats:</h3>
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/tee_script#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/tee_script#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/taiwo-nafiu#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/taiwo-nafiu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/taiwonafiu#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/taiwonafiu#gh-dark-mode-only)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiwonaf&show_icons=true&locale=en&layout=compact&theme=dark" alt="taiwonaf" /></p>
 
 ### Languages and Tools:
 
