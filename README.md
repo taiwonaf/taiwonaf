@@ -2,9 +2,9 @@
 
 ## I'm a Developer and a scientist (Microbiologist)!!
 
-- 🌱 I’m currently learning MERN stack with Django
+- 🌱 I’m currently learning and buildings using React Native and React js
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: become a full fledge fullstack developer
+- 🥅 2023 Goals: become a full fledge fullstack developer
 
 ### Connect with me:
 
